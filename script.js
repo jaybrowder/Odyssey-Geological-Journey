@@ -1,72 +1,72 @@
 const quizData = [
     {
-        question: "What did Jayden find in the rocks that surprised him?",
+        question: "What is the main type of rock found around Lake Jocassee?",
         answers: {
-            a: "Dinosaur bones",
-            b: "Gold nuggets",
-            c: "Seashell fossils",
-            d: "Ancient tools"
+            a: "Sandstone",
+            b: "Limestone",
+            c: "Henderson Gneiss",
+            d: "Granite"
         },
         correctAnswer: "c",
         feedback: {
-            correct: "That's right! Jayden found seashell fossils in the rocks, which was surprising because they were high up in the mountains.",
-            incorrect: "Not quite. Jayden found seashell fossils in the rocks, which was surprising because they were high up in the mountains."
+            correct: "That's right! Henderson Gneiss is the major rock type found around Lake Jocassee.",
+            incorrect: "Not quite. The main rock type found around Lake Jocassee is Henderson Gneiss."
         }
     },
     {
-        question: "What caused the seafloor to become the Appalachian Mountains?",
+        question: "What process transformed the original igneous rock into gneiss?",
         answers: {
-            a: "Volcanic eruptions",
-            b: "Earthquakes",
-            c: "Tectonic plates colliding",
-            d: "Strong winds"
-        },
-        correctAnswer: "c",
-        feedback: {
-            correct: "Excellent! Tectonic plates colliding over millions of years pushed the seafloor up to form the Appalachian Mountains.",
-            incorrect: "The correct answer is tectonic plates colliding. Over millions of years, this process pushed the seafloor up to form the Appalachian Mountains."
-        }
-    },
-    {
-        question: "What was the name of the supercontinent that Ms. Rodriguez mentioned?",
-        answers: {
-            a: "Atlantis",
-            b: "Pangea",
-            c: "Gondwana",
-            d: "Eurasia"
+            a: "Erosion",
+            b: "Metamorphism",
+            c: "Sedimentation",
+            d: "Weathering"
         },
         correctAnswer: "b",
         feedback: {
-            correct: "Great job! Pangea was the supercontinent where all of Earth's landmasses were once connected.",
-            incorrect: "Actually, the supercontinent Ms. Rodriguez mentioned was Pangea. This was when all of Earth's landmasses were connected."
+            correct: "Correct! Metamorphism, which involves intense heat and pressure, transformed the original igneous rock into gneiss.",
+            incorrect: "The correct answer is metamorphism. This process, involving intense heat and pressure, transformed the original igneous rock into gneiss."
         }
     },
     {
-        question: "What two things drive the water cycle?",
+        question: "What are the straight lines cutting across the rock called?",
         answers: {
-            a: "Wind and rain",
-            b: "Sun's energy and gravity",
-            c: "Mountains and oceans",
-            d: "Plants and animals"
+            a: "Planar fractures or joints",
+            b: "Quartz veins",
+            c: "Fossils",
+            d: "Crystals"
+        },
+        correctAnswer: "a",
+        feedback: {
+            correct: "Great job! The straight lines cutting across the rock are called planar fractures or joints.",
+            incorrect: "Actually, those straight lines are called planar fractures or joints. They're weak points in the rock where water can seep in."
+        }
+    },
+    {
+        question: "How does water in rock cracks contribute to weathering?",
+        answers: {
+            a: "It dissolves the rock",
+            b: "It freezes and expands, making cracks bigger",
+            c: "It attracts plants that break the rock",
+            d: "It creates fossils"
         },
         correctAnswer: "b",
         feedback: {
-            correct: "Correct! The sun's energy causes evaporation, and gravity pulls the water back down as rain.",
-            incorrect: "The correct answer is the sun's energy and gravity. The sun causes evaporation, and gravity brings the water back down as rain."
+            correct: "Excellent! When water freezes in rock cracks, it expands and makes the cracks bigger over time. This is called the freeze-thaw process.",
+            incorrect: "The correct answer is that water freezes and expands, making cracks bigger. This freeze-thaw process is a way that rocks weather and break down over time."
         }
     },
     {
-        question: "What can cause rockfalls and landslides in the mountains?",
+        question: "What are the white streaks in the rock called?",
         answers: {
-            a: "Animals digging",
-            b: "Trees growing",
-            c: "Water freezing in rock cracks",
-            d: "Wind blowing"
+            a: "Fossils",
+            b: "Quartz veins",
+            c: "Chalk lines",
+            d: "Ice streaks"
         },
-        correctAnswer: "c",
+        correctAnswer: "b",
         feedback: {
-            correct: "Well done! Water can seep into cracks in the rocks, and when it freezes, it expands and can cause rockfalls and landslides.",
-            incorrect: "The correct answer is water freezing in rock cracks. This process can expand the cracks over time and lead to rockfalls and landslides."
+            correct: "Well done! The white streaks in the rock are called quartz veins. They formed when hot, mineral-rich fluids cooled in cracks in the rock.",
+            incorrect: "Actually, those white streaks are called quartz veins. They formed when hot, mineral-rich fluids cooled in cracks in the rock."
         }
     }
 ];
